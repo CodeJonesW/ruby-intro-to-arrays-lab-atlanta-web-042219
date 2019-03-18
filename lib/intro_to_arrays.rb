@@ -16,4 +16,6 @@ third_element(array)
   array[2]
 end
 
-last_element
+last_element(array)
+  array[-1]
+end
