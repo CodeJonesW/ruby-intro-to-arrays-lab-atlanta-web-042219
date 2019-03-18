@@ -9,14 +9,14 @@ def array_with_two_elements
 end
 
 first_element(array)
-  array[0]
+  return array[0]
 end
 
 third_element(array)
-  array[2]
+  return array[2]
 end
 
 last_element(array)
-  array[-1]
+  return array[-1]
 end
 
