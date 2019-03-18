@@ -11,3 +11,9 @@ end
 first_element(array)
   array[0]
 end
+
+third_element(array)
+  array[2]
+end
+
+last_element
