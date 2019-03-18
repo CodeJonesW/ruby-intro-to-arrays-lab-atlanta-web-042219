@@ -8,15 +8,5 @@ def array_with_two_elements
   return newArray
 end
 
-first_element(array)
-  return array[0]
-end
 
-third_element(array)
-  return array[2]
-end
-
-last_element(array)
-  return array[-1]
-end
 
