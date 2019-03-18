@@ -8,7 +8,7 @@ def array_with_two_elements
   return newArray
 end
 
-def first_element (array)
+def first_element_with_array_methods (array)
   array.shift()
 end
 
