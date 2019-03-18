@@ -17,7 +17,7 @@ def third_element(array)
 end
 
 def last_element(array)
-  return array.pop
+  array.pop
 end
 
 
