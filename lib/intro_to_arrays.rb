@@ -9,7 +9,7 @@ def array_with_two_elements
 end
 
 def first_element (array)
-  array.shift
+  array.shift()
 end
 
 def third_element(array)
@@ -17,7 +17,7 @@ def third_element(array)
 end
 
 def last_element(array)
-  return array[-1]
+  return array.pop
 end
 
 
