@@ -16,8 +16,8 @@ def third_element(array)
   return array[2]
 end
 
-def last_element_with_array_methods(array)
-  array.pop
+def last_element(array)
+  array[-1]
 end
 
 def length_of_array(array)
@@ -28,3 +28,6 @@ def first_element_with_array_methods(array)
   array.shift
 end
 
+def last_element_with_array_methods(array)
+  array.pop
+end
