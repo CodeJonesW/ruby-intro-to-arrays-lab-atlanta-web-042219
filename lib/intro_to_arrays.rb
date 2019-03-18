@@ -1,5 +1,10 @@
  def instantiate_new_array
    newArray = []
    return newArray
-  end
+ end
   
+def array_with_two_elements
+  newArray = ["element1","element2"]
+  return newArray
+end
+
